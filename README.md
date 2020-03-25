@@ -1,6 +1,6 @@
 # COVID-19 Prediction
 
-![World Report](img/asia_npd.png)
+![Showcase](img/asia_npd.png)
 
 Here is a notebook aiming to predict the number of people infected by the COVID-19 pandemic worldwide, continent-wise and country-wise.
 
@@ -44,14 +44,20 @@ Works with Europe, North America, South America, Africa, Asia and Oceania.
 ```python
 continent_report('Continent Name')
 ```
-![World Report](img/north_america.png)
+![NA Report](img/north_america.png)
 
 #### Country-wise
 Works with all the infected countries.
 ```python
 country_report('Country Name')
 ```
-![World Report](img/italy.png)
+![Italy Report](img/italy.png)
+
+#### Statistics
+
+![Italy Stats](img/italy_stats.png)
+
+The `*_report` functions also provide some dates and numbers about key properties of the predictions, like figures for the current day, or a date for the peak of new infections.
 
 ## Data
 
