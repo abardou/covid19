@@ -66,3 +66,8 @@ The data come from this GitHub repository : https://github.com/CSSEGISandData/CO
 It is filled every day by the Johns Hopkins University CSSE.
 
 It contains, amongst other things, `csv` files with daily report on the number of infected, dead and recovered for countries all around the world. They are the source we used to make our predictions.
+
+## Disclaimer
+The predictions are variable, since they directly depend on a small amount of data. They cannot anticipate some sanitary decisions in response to the pandemic like lockdown of countries.
+
+Therefore, please keep in mind that the situation can be very different of what is predicted by this program, at any scale. In addition, do not remember to relaunch the prediction every day, since new data will allow the model to be more accurate.
