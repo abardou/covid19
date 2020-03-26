@@ -70,4 +70,4 @@ It contains, amongst other things, `csv` files with daily report on the number o
 ## Disclaimer
 The predictions are variable, since they directly depend on a small amount of data. They cannot anticipate some sanitary decisions in response to the pandemic like lockdown of countries.
 
-Therefore, please keep in mind that the situation can be very different of what is predicted by this program, at any scale. In addition, do not remember to relaunch the prediction every day, since new data will allow the model to be more accurate.
+Therefore, please keep in mind that the situation can be very different of what is predicted by this program, at any scale. In addition, do remember to relaunch the prediction every day, since new data will allow the model to be more accurate.
