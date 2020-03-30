@@ -1,6 +1,6 @@
 # COVID-19 Prediction
 
-![Showcase](img/asia_npd.png)
+![Showcase](img/europe_npd.png)
 
 Here is a notebook aiming to predict the number of people infected by the COVID-19 pandemic worldwide, continent-wise and country-wise.
 
