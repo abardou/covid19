@@ -57,7 +57,7 @@ country_report('Country Name')
 
 ![Italy Stats](img/italy_stats.png)
 
-The `*_report` functions also provide some dates and numbers about key properties of the predictions, like figures for the current day, or a date for the peak of new infections.
+The `*_report` functions also provide some dates and numbers about key properties of the predictions, like figures for the current day, or a date for the peak of new infections. These numbers are provided with an average (`Avg` column) and a standard deviation (`Std` column) when available, to allow the user to estimate the quality of the predictions.
 
 ## Data
 
